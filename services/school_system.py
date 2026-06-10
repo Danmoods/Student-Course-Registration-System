@@ -540,4 +540,4 @@ class SchoolSystem:
         self.load_courses()
         self.load_registrations()
 
-        print("Data load successfully.")
+        print("Data load successfully.")  
