@@ -145,7 +145,7 @@ while True:
 
     elif choice == "0":
 
-        print("Goodbye!")
+        print("Goodbye! Na Watu Wasome...(-__-)"))")
         break
 
     else:
@@ -155,4 +155,3 @@ while True:
             "Please try again."
         )
 
-        
