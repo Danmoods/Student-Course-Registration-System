@@ -1,0 +1,14 @@
+[
+    {
+        "student_id": "S001",
+        "name": "Daniel Bett",
+        "email": "saitamang@gmail.com",
+        "phone_number": "0700333000"
+    },
+    {
+        "student_id": "S002",
+        "name": "DEROKKAI",
+        "email": "Deron@gmail.com",
+        "phone_number": "0700777555"
+    }
+]

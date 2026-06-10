@@ -1,0 +1,56 @@
+[
+    {
+        "course_id": "PY101",
+        "course_name": "Python Fundamentals",
+        "trainer_name": "Mr. Joseph",
+        "capacity": 5
+    },
+    {
+        "course_id": "PY003",
+        "course_name": "Fundamentals of Accounting",
+        "trainer_name": "James Ouma",
+        "capacity": 5
+    },
+    {
+        "course_id": "DB101",
+        "course_name": "Database Systems",
+        "trainer_name": "Ms. Grace",
+        "capacity": 10
+    },
+    {
+        "course_id": "WD101",
+        "course_name": "Web Development",
+        "trainer_name": "Mr. Brian",
+        "capacity": 8
+    },
+    {
+        "course_id": "JS101",
+        "course_name": "JavaScript Essentials",
+        "trainer_name": "Mr. Kevin",
+        "capacity": 6
+    },
+    {
+        "course_id": "CS201",
+        "course_name": "Computer Networks",
+        "trainer_name": "Ms. Susan",
+        "capacity": 12
+    },
+    {
+        "course_id": "SE201",
+        "course_name": "Software Engineering",
+        "trainer_name": "Dr. Maina",
+        "capacity": 15
+    },
+    {
+        "course_id": "OS101",
+        "course_name": "Operating Systems",
+        "trainer_name": "Mr. Peter",
+        "capacity": 10
+    },
+    {
+        "course_id": "AI101",
+        "course_name": "Introduction to Artificial Intelligence",
+        "trainer_name": "Dr. Njeri",
+        "capacity": 7
+    }
+]
